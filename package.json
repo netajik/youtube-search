@@ -17,7 +17,7 @@
 		"commands": [
 			{
 				"command": "youtube-search.searchYouTubeExample",
-				"title": "YouTube Search Example"
+				"title": "YouTube Video Search"
 			}
 		]
 	},
