@@ -1,6 +1,7 @@
 {
 	"name": "youtube-search",
 	"displayName": "YouTube Search",
+	"publisher": "Netaji",
 	"description": "",
 	"version": "0.0.1",
 	"engines": {
@@ -39,6 +40,7 @@
 	},
 	"dependencies": {
 		"axios": "^0.21.3",
-		"fast-xml-parser": "^3.19.0"
+		"fast-xml-parser": "^3.19.0",
+		"i": "^0.3.6"
 	}
 }

@@ -1,4 +1,4 @@
-# youtube-search README
+# youtube-search VS Code Extension
 
 
 
@@ -15,3 +15,8 @@ A Visual Studio Code extension, useful to search videos in particular YouTube ch
     ![alt text](/images/Enter-Command.png)
 5. Enter **Ctrl+Shipt+p** and search for **YouTube Video Search**. Then it will show list of videos, click any item then it will redirect to corresponding video as shown in the below image.
     ![alt text](/images/List-of-videos.png)
+
+References:
+
+1. [Your First VS Code Extension](https://code.visualstudio.com/api/get-started/your-first-extension)
+2. [Publishing VS Code Extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
