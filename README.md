@@ -1,4 +1,4 @@
-# youtube-search VS Code Extension
+# youtube-search Visula Studio Code Extension
 
 
 
